@@ -278,27 +278,3 @@ background-color:black; box-shadow: 0px 0px 20px 10px #09fbd3;}
 
 
 
-.resumebtn{
-	 display: inline-block;
-	 border-radius: 10px; margin-top: 20px;
-}
-
-
-.resumebtn a{
-	  display: inline-block;
-      padding: 5px 20px;
-      background-color: rgba(255,255,255,0.1);
-      text-decoration: none;
-      border: 1px solid #09fbd3;
-      color:white;
-      border-radius: 5px;
-      transition: all 0.3s;
-      
-}
-.resumebtn a:hover{
-	border: 1px solid transparent;
-	text-decoration: none;
-	color: #09fbd3;
-	box-shadow: 0px 0px 20px 10px #09fbd3;
-
-}
